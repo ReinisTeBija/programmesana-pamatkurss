@@ -1,1 +1,1 @@
-print("Sveiki no Latvijas!")
+print("test 123")
